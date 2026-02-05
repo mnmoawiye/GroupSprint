@@ -1,6 +1,6 @@
 # GroupSprint
 
-##Day 23 (Thursday)
+## Day 23 (Thursday)
 Date: 2/5/25
 
 Karim Rivera
@@ -25,7 +25,7 @@ Blocked?
 
 Notes from Lead/Instructor:
 
-##Day 24 (Thursday — Applied Work)
+## Day 24 (Thursday — Applied Work)
 Date: ___________
 
 [Person 1 Name]
@@ -46,7 +46,7 @@ What I'm doing:
 Blocked?
 Notes from Lead/Instructor:
 
-##Day 25 (Friday — Async)
+## Day 25 (Friday — Async)
 Date: ___________
 
 Demo Status: [Working / Needs polish / Broken]
