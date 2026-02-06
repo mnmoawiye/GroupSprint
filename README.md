@@ -21,7 +21,7 @@
 ### Simone Brown
 - **What I did:** There was nothing to test, so worked on the design documentation.
 - **What I'm doing:** Figuring out the mechanics of the game and how to implement it (currently using Pygame).
-- **Blocked?** 
+- **Blocked?** No 
 
 **Notes from Lead/Instructor:**
 
@@ -35,19 +35,19 @@
 - **What I'm doing:**  Trying to get the game actions to work
 - **Blocked?**
 
-### [Person 2 Name]
+### [Karim Rivera]
 - **What I did:**  
 - **What I'm doing:**  
 - **Blocked?**
 
-### [Person 3 Name]
+### [Masoud Moawiye]
 - **What I did:**  
 - **What I'm doing:**  
 - **Blocked?**
 
-### [Person 4 Name]
-- **What I did:**  
-- **What I'm doing:**  
+### [Simone Brown]
+- **What I did: Work on game mechanic implementation, artwork, and game design**  
+- **What I'm doing: Potential pygame implementation, mood degrading, etc.**  
 - **Blocked?**
 
 **Notes from Lead/Instructor:**
