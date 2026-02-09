@@ -54,11 +54,32 @@
 
 ---
 
-## Day 25 (Friday — Async)
-**Date:** ___________
+## Day 25 (Monday)
+**Date:** 2/9/2025
 
-- **Demo Status:** Working / Needs polish / Broken
-- **Code pushed?** Yes / No
+- **Demo Status:** Working - Bugs yet to be introduced 
+- **Code pushed?** Yes
+
+- ### [Abid]
+- **What I did:** Finishing up the code 
+- **What I'm doing:**  Introducing errors into the code, logging the errors introduced 
+- **Blocked?**
+
+### [Karim]
+- **What I did:**  Filled in the standup document, Code assistant 
+- **What I'm doing:**  Leading the group, roles were defaulted this time around, primarily checking in with everyone 
+
+### [Masoud]
+- **What I did:** Testing code, making sure everything works as intended 
+- **What I'm doing:**  Testing introduced errors 
+- **Blocked?**
+
+### [Simone Brown]
+- **What I did: Filling out the standup document**  
+- **What I'm doing: Removing emojis from code to ensure it runs, fixing formatting errors within the code.**  
+- **Blocked?**
+
+**Notes from Lead/Instructor:**
 
 ### Known issues to hand off to Week 6 QA:
 - Issue 1  
